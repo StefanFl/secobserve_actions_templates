@@ -1,5 +1,6 @@
 #!/bin/sh
 set -e
+set -x
 
 export TRIVY_NO_PROGRESS=true
 
